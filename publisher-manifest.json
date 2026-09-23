@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "42a3702a2f616502f0ba27e9",
+  "owner": "senbtbdyg",
+  "repo": "page-08dfd61ecc24e88c2a964de0",
+  "title": "DataNet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "08dfd61ecc24e88c2a964de0",
+      "a": "DataNet",
+      "b": "机场官网线路发布页",
+      "entity": "DataNet",
+      "brand": "DataNet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "63dad42b16c748568a8941ed42f43c3ddcd2f22f3811ce3274d6b7e5cddad34b",
+      "content": {
+        "primary_entity": "DataNet",
+        "keyword1": "DataNet",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，DataNet 为跨境访问、流媒体解锁与远程办公提供多线路加速方案，按设备数量与流量需求划分基础版、旗舰版与团队版三档订阅，支持年度计费节省支出。",
+          "AI_HERO_SUBTITLE": "DataNet 多设备加速订阅",
+          "AI_HERO_INTRO": "DataNet 面向跨境访问与流媒体需求，提供基础版、旗舰版、团队版三档加速订阅，按设备数量、流量与线路类型区分，可按月或按年灵活选择。",
+          "AI_VISUAL_TITLE": "DataNet 加速线路订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版支持五台设备在线",
+          "AI_HIGHLIGHT_3": "年付方案节省整月支出",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度选择适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备数量选择更合适。",
+          "AI_FEATURE_TITLE_2": "流量额度差异",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版300GB，团队版1000GB，按日常使用量评估。",
+          "AI_FEATURE_TITLE_3": "订阅周期与价格",
+          "AI_FEATURE_TEXT_3": "月付15元起，年付基础版150元、旗舰版350元、团队版850元，长期使用年付更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，配置订阅后即可使用对应的加速线路。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版提供全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版面向高带宽企业定制路由需求。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，通常需要三个步骤。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求，在基础版、旗舰版、团队版中选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与套餐设备数量上限匹配，避免超出同时在线数。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端并按文档导入订阅链接，完成后即可连接线路使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "DataNet 套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量额度、设备数量和线路类型。基础版每月100GB支持3台设备，旗舰版300GB支持5台设备并含IPLC专线，团队版1000GB支持20台设备。",
+          "AI_FAQ_QUESTION_2": "一台订阅可以同时用几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版最多3台设备同时在线，旗舰版5台，团队版20台。超出上限可能导致部分设备无法连接，建议按实际设备数量选择套餐。",
+          "AI_FAQ_QUESTION_3": "订阅链接如何在客户端中导入？",
+          "AI_FAQ_ANSWER_3": "先在对应客户端中选择订阅导入功能，粘贴订阅链接后更新节点列表，即可选择线路连接使用。具体操作可参照客户端自带文档。",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差别大吗？",
+          "AI_FAQ_ANSWER_4": "年付折算后更省。基础版月付15元、年付150元，旗舰版月付35元、年付350元，团队版月付85元、年付850元，长期使用年付可节省整月支出。",
+          "AI_FAQ_QUESTION_5": "旗舰版的流媒体解锁和游戏加速适合哪些人？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁和IPLC专线游戏加速优化，适合对观看体验和延迟要求较高、同时使用5台以内设备的用户。",
+          "AI_CLOSING_TITLE": "选择合适的加速套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档配置订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "4y6tuf.cn",
+    "host": "4y6tuf.cn"
+  },
+  "file_hashes": {
+    "index.html": "c2ec90d6a3a95efd6625c33c05f0272d684fa1a46dbc04a86da35ea2be8c07ee",
+    "sitemap.xml": "0dd402b8f57548d4b1f87d7ef748dd7fa4676bacfb1055d6229e7197b194abc8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6f50f1d28fa40e8511665fb991f76371734f87bdefaa8ff86bf69f31cfada856",
+    "robots.txt": "17eb5d2d81602890683316cf55a12d5bc9e80bd88c3b5d0a0fb7216c1f46fd91",
+    "b7ec11f9ae26f3a3ab44f479024db445.txt": "a6cde8282ca23acbe3968f5e278ad7c923795c39eb0fbc9a371950f6376b4681"
+  },
+  "revision": "a6c753e851943af08a88520f3a1f0de90aa3d62325c3c54334f2762dbcf62edf"
+}
